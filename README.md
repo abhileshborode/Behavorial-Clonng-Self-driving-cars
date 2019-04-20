@@ -24,7 +24,7 @@ This repository consists:
 * `model.py` (script used to create and train the model)
 * `drive.py` (script to drive the car - feel free to modify this file)
 * `model.h5` (a trained Keras model)
-* `video.mp4` (a video recording of your vehicle driving autonomously around the track for at least one full lap)
+
 
 #### Local Workstation Environment:
 -  Ubuntu 16.04
