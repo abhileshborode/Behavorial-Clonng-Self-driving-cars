@@ -106,7 +106,7 @@ I used a convolutional neural network (CNN) to map pixels from three cameras mou
 I used the ConvNet from NVIDIA's paper [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
 
 <figure>
- <img src="Images/nn.png" width="1654" alt="Combined Image" />
+ <img src="Images/nn.jpg" width="1654" alt="Combined Image" />
  <figcaption>
  <p></p>
  </figcaption>
