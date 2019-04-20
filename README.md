@@ -55,7 +55,7 @@ cd Behavorial-Clonng-Self-driving-cars
 python model.py
 python drive.py model.h5 run1
 python video.py run1
-python video.py run1 --fps 48 (optional to cahnge the fps)
+python video.py run1 --fps 48 (optional to change the fps)
 ```
 ---
 ## Data Loading
