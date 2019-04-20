@@ -103,7 +103,7 @@ Although `model.py` file consists of code for data augmentation I decided not to
 
 I used a convolutional neural network (CNN) to map pixels from three cameras mounted along the left,right and the center of the car directly to steering angle positions.
 
-I used the ConvNet from NVIDIA's paper [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
+I used the ConvNet from NVIDIA's paper [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf) (Image Courtesy: NVIDIA)
 
 <figure>
  <img src="Images/nn.jpg" width="1654" alt="Combined Image" />
@@ -152,12 +152,12 @@ A dropout layer is added after the flattening layer to prevent overfitting.
 
 | Epoch         |Loss       |Validation Loss  |
 |---------------|-----------|-----------------|
-|1/10           |0.0200     |0.0184           |
-|2/10           |0.0158     |0.0170           |
-|3/10           |0.0138     |0.0205           |
-|4/10           |0.0120     |0.0210           |
-|5/10           |0.0108     |0.0200           |
-|6/10           |0.0097     |0.0193           |
+|1/6           |0.0200     |0.0184            |
+|2/6           |0.0158     |0.0170            |
+|3/6           |0.0138     |0.0205            |
+|4/6           |0.0120     |0.0210            |
+|5/6           |0.0108     |0.0200            |
+|6/6           |0.0097     |0.0193            |
 
 ---
 
