@@ -45,11 +45,7 @@ with open('data/driving_log.csv', 'r') as f:
         img_center = np.asarray(Image.open(path1))
         img_left = np.asarray(Image.open(path2))
         img_right = np.asarray(Image.open(path3))
-
-
-
         car_images.extend([img_center, img_left, img_right])
-
         steering_angles.extend([steering_center, steering_left, steering_right])
 
 #####----Data Augmentation-----######

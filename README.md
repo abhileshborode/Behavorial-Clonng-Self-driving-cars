@@ -102,7 +102,7 @@ Although `model.py` file consists of code for data augmentation I decided not to
 
 I used a convolutional neural network (CNN) to map pixels from three cameras mounted along the left,right and the center of the car directly to steering angle positions.
 
-I used the ConvNet from NVIDIA's paper [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf) (Image Courtesy: NVIDIA)
+I used the PilotNet from NVIDIA's paper [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf) (Image Courtesy: NVIDIA)
 
 <figure>
  <img src="Images/nn.jpg" width="1654" alt="Combined Image" />
