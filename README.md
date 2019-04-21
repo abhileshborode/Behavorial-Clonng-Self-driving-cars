@@ -22,7 +22,7 @@ Overview
 ## Files included
 This repository consists: 
 * `model.py` (script used to create and train the model)
-* `drive.py` (script to drive the car - feel free to modify this file)
+* `drive.py` (script to drive the car )
 * `model.h5` (a trained Keras model)
 
 
