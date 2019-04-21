@@ -26,16 +26,15 @@ This repository consists:
 * `model.h5` (a trained Keras model)
 
 
-#### Local Workstation Environment:
+### Local Workstation Environment:
 -  Ubuntu 16.04
 -  Python 3.5.2
 -  Keras 2.1.6
 -  TensorFlow-gpu 1.10.1
--  GPU:NVIDIA GeForce GTX 1050
+-  GPU: NVIDIA GeForce GTX 1050
 
 ### Dependencies
 
-* [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
 * `tensorflow-gpu`
 * `Keras`
 * `socketio`
